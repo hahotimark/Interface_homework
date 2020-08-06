@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.iml" filepath="$PROJECT_DIR$/.idea/.idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Class5_Clocks/Java_Class5_Clocks.iml" filepath="$PROJECT_DIR$/Java_Class5_Clocks/Java_Class5_Clocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Class5_Clocks/Java_Class5_HomeWork1_04.iml" filepath="$PROJECT_DIR$/Java_Class5_Clocks/Java_Class5_HomeWork1_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Class5_HouseMachines/Java_Class5_HouseMachines.iml" filepath="$PROJECT_DIR$/Java_Class5_HouseMachines/Java_Class5_HouseMachines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Class5_HumanDatabase/Java_Class5_HumanDatabase.iml" filepath="$PROJECT_DIR$/Java_Class5_HumanDatabase/Java_Class5_HumanDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Class5_Clocks/Java_Class5_Hw_04.iml" filepath="$PROJECT_DIR$/Java_Class5_Clocks/Java_Class5_Hw_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardatabase/cardatabase.iml" filepath="$PROJECT_DIR$/cardatabase/cardatabase.iml" />
+    </modules>
+  </component>
+</project>
