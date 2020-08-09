@@ -15,18 +15,13 @@ public class Fridge extends Machine {
 
 	@Override
 	public int getPower() {
-		return (this.power);
+		return 0;
 	}
 
-    @Override
-    public String printMachineName() {
-        return null;
-    }
-
-    public String printMachineNames(){
-
-		return "Nem volt név!";
+	@Override
+	public String printMachineName() {
+		return "Ez egy hűtő";
 	}
 
-	
+
 }

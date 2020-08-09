@@ -26,15 +26,10 @@ public class Microwave extends Machine {
 		return (currentPower);
 	}
 
-    @Override
-    public String printMachineName() {
-        return null;
-    }
-
-
-    public String printMachineNames(){
-
-		return "Nem volt név!";
+	@Override
+	public String printMachineName() {
+		return "Ez egy mikró";
 	}
+
 
 }
